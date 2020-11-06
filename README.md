@@ -1,7 +1,8 @@
 # example-fork
 
-1.- La medida de la inteligencia es la habilidad de comprar caviar
-2.- El onvre sabio debe ser capaz no sólo de amar a sus enemigos, sino también a odiar a sus amigos.
-3.- La diferencia entre la estupidez y la genialidad es que la genialidad tiene sus límites
-4.- tener tacto es zaver dezirle a alguiem ke ze vaya al infierno de forma tal que espere ansioso el viaje
-5.- El mundo no cera destruido por los ke asen mal, si no por aquiyos que miran zin aser nada para impedirlo
+1.- La medida de la imtelijenzia ez la avilidad de canviar
+2.-El onbre savio debe zer kapaz no sólo de amar a sus enemigos, sino también a odiar a sus amigos.
+3.- la diferenzia entre la extupidex y la genialidad ez ke la genialidad tiene zus limites
+4.-Tener tacto es saber decirle a alguien que se vaya al infierno de forma tal que espere ansioso el viaje
+5.-El mundo no será destruido por los que hacen mal, si no por aquellos que miran sin hacer nada para impedirlo
+
