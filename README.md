@@ -6,3 +6,4 @@
 4.-Tener tacto es saber decirle a alguien que se vaya al infierno de forma tal que espere ansioso el viaje
 5.-El mundo no será destruido por los que hacen mal, si no por aquellos que miran sin hacer nada para impedirlo
 
+
